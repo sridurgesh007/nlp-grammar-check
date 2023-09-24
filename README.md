@@ -18,5 +18,16 @@ Before using nlp-grammar-check, ensure that Java is installed on your system, as
 
    ```shell
    pip install gradio
+3.**Install Textblob**:
+
+   Textblob is used for spell check :
+   ```shell
    pip install textblob
-   pip install language_tool_python 
+   ```
+4.*Install language_tool_python :
+
+   It is used for grammar check:
+   ```shell
+pip install language_tool_python
+```
+
