@@ -1,6 +1,7 @@
 # nlp-grammar-check
 
 nlp-grammar-check is a small NLP (Natural Language Processing) app with a minimal interface. It allows you to input sentences with incorrect spelling and grammar, and it provides corrected output.
+<img width="648" alt="Screenshot 2023-09-23 191751" src="https://github.com/sridurgesh007/nlp-grammar-check/assets/115580880/d6ee0730-498e-4bbe-9082-4e8f9eea3db7">
 
 ## Deployment
 
